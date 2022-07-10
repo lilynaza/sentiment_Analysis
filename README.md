@@ -4,6 +4,7 @@ Sentiment study of tweets from three major political parties during their primar
 hashtag used for scrapping are:
 1. Winners of the party primary election.
 2. Names of the parties.
+
 Used the compound score in scoring the polarity of the tweets
 
 The aim of this project is to: 
